@@ -1,0 +1,41 @@
+1427080960 INFO gamepad_test : IT'S ALIVE!!!
+1427080986 INFO gamepad_test : 
+Full name:  \\?\Root#RDP_MOU#0000#{378de44c-56ef-11d1-bc8c-00a0c91405dd}
+Product:    
+RIM Type:   RIM_TYPEMOUSE
+Handle:     0x1003b
+GUID:       {378de44c-56ef-11d1-bc8c-00a0c91405dd}
+Type:       Root
+Definition: RDP_MOU
+Local ID:   0000
+System name:   @machine.inf,rdp_mou.devicedesc;Terminal Server Mouse Driver
+
+
+1427080986 INFO gamepad_test : Logged string too long for the system :(
+1427080986 INFO gamepad_test : 
+Full name:  \\?\Root#RDP_KBD#0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+Product:    
+RIM Type:   RIM_TYPEKEYBOARD
+Handle:     0x1003f
+GUID:       {884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+Type:       Root
+Definition: RDP_KBD
+Local ID:   0000
+System name:   @machine.inf,rdp_kbd.devicedesc;Terminal Server Keyboard Driver
+
+
+1427080986 INFO gamepad_test : Logged string too long for the system :(
+1427080986 INFO gamepad_test : 
+Full name:  \\?\HID#VID_0810&PID_0003#6&2d68c10&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Product:    
+RIM Type:   RIM_TYPEHID
+Handle:     0x200c3
+GUID:       {4d1e55b2-f16f-11cf-88cb-001111000030}
+Type:       HID
+Definition: VID_0810&PID_0003
+Local ID:   6&2d68c10&0&0000
+System name:   @input.inf,10247d_device_system_game;HID-compliant game controller
+
+Usage:      4
+Usage Page: 1
+

@@ -1,0 +1,211 @@
+IT'S ALIVE!!!
+ 
+ 
+Buttons
+ 
+ 
+ 
+Index: 0
+UsagePage: 9
+ReportID: 0
+IsAlias: FALSE
+BitField: 2
+LinkCollection: 1
+LinkUsage: 0
+LinkUsagePage: 1
+IsAbsolute: TRUE
+ 
+Range: 
+UsageMin: 1
+UsageMax: 12
+DataIndexMin: 6
+DataIndexMax: 17
+ 
+ 
+Index: 1
+UsagePage: 65280
+ReportID: 0
+IsAlias: FALSE
+BitField: 2
+LinkCollection: 1
+LinkUsage: 0
+LinkUsagePage: 1
+IsAbsolute: TRUE
+ 
+Not range: 
+Usage: 1
+DataIndex: 18
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+Values
+ 
+ 
+ 
+Index: 0
+UsagePage: 1
+ReportID: 0
+IsAlias: FALSE
+BitField: 2
+LinkCollection: 1
+LinkUsage: 0
+LinkUsagePage: 1
+BitSize: 8
+ReportCount: 1
+UnitsExp: 0
+Units: 0
+LogicalMin: 0
+LogicalMax: 255
+PhysicalMin: 0
+PhysicalMax: 255
+IsAbsolute: TRUE
+HasNull: FALSE
+ 
+Range: 
+UsageMin: 49
+UsageMax: 49
+DataIndexMin: 0
+DataIndexMax: 0
+ 
+ 
+
+
+Index: 1
+UsagePage: 1
+ReportID: 0
+IsAlias: FALSE
+BitField: 2
+LinkCollection: 1
+LinkUsage: 0
+LinkUsagePage: 1
+BitSize: 8
+ReportCount: 1
+UnitsExp: 0
+Units: 0
+LogicalMin: 0
+LogicalMax: 255
+PhysicalMin: 0
+PhysicalMax: 255
+IsAbsolute: TRUE
+HasNull: FALSE
+ 
+Not range: 
+Usage: 48
+DataIndex: 1
+ 
+ 
+
+
+Index: 2
+UsagePage: 1
+ReportID: 0
+IsAlias: FALSE
+BitField: 2
+LinkCollection: 1
+LinkUsage: 0
+LinkUsagePage: 1
+BitSize: 8
+ReportCount: 1
+UnitsExp: 0
+Units: 0
+LogicalMin: 0
+LogicalMax: 255
+PhysicalMin: 0
+PhysicalMax: 255
+IsAbsolute: TRUE
+HasNull: FALSE
+ 
+Not range: 
+Usage: 53
+DataIndex: 2
+ 
+
+
+ 
+Index: 3
+UsagePage: 1
+ReportID: 0
+IsAlias: FALSE
+BitField: 2
+LinkCollection: 1
+LinkUsage: 0
+LinkUsagePage: 1
+BitSize: 8
+ReportCount: 1
+UnitsExp: 0
+Units: 0
+LogicalMin: 0
+LogicalMax: 255
+PhysicalMin: 0
+PhysicalMax: 255
+IsAbsolute: TRUE
+HasNull: FALSE
+ 
+Range: 
+UsageMin: 50
+UsageMax: 50
+DataIndexMin: 3
+DataIndexMax: 3
+ 
+
+
+ 
+Index: 4
+UsagePage: 1
+ReportID: 0
+IsAlias: FALSE
+BitField: 2
+LinkCollection: 1
+LinkUsage: 0
+LinkUsagePage: 1
+BitSize: 8
+ReportCount: 1
+UnitsExp: 0
+Units: 0
+LogicalMin: 0
+LogicalMax: 255
+PhysicalMin: 0
+PhysicalMax: 255
+IsAbsolute: TRUE
+HasNull: FALSE
+ 
+Range: 
+UsageMin: 50
+UsageMax: 50
+DataIndexMin: 4
+DataIndexMax: 4
+ 
+
+
+ 
+Index: 5
+UsagePage: 1
+ReportID: 0
+IsAlias: FALSE
+BitField: 66
+LinkCollection: 1
+LinkUsage: 0
+LinkUsagePage: 1
+BitSize: 4
+ReportCount: 1
+UnitsExp: 0
+Units: 20
+LogicalMin: 0
+LogicalMax: 7
+PhysicalMin: 0
+PhysicalMax: 315
+IsAbsolute: TRUE
+HasNull: TRUE
+ 
+Range: 
+UsageMin: 57
+UsageMax: 57
+DataIndexMin: 5
+DataIndexMax: 5

@@ -1,0 +1,45 @@
+1426554568 INFO gamepad_test : IT'S ALIVE!!!
+1426554568 INFO gamepad_test : 
+Full name:  \\?\Root#RDP_KBD#0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+RIM Type:   RIM_TYPEKEYBOARD
+Handle:     0x1003f
+GUID:       {884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+Type:       Root
+Definition: RDP_KBD
+Local ID:   0000
+System name:   @machine.inf,rdp_kbd.devicedesc;Terminal Server Keyboard Driver
+
+
+1426554568 INFO gamepad_test : 
+Full name:  \\?\ACPI#PNP0303#4&e03a844&0#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+RIM Type:   RIM_TYPEKEYBOARD
+Handle:     0xb003d
+GUID:       {884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+Type:       ACPI
+Definition: PNP0303
+Local ID:   4&e03a844&0
+System name:   @keyboard.inf,00672505np0303.devicedesc;Standard PS/2 Keyboard
+
+
+1426554568 INFO gamepad_test : 
+Full name:  \\?\Root#RDP_MOU#0000#{378de44c-56ef-11d1-bc8c-00a0c91405dd}
+RIM Type:   RIM_TYPEMOUSE
+Handle:     0x1003b
+GUID:       {378de44c-56ef-11d1-bc8c-00a0c91405dd}
+Type:       Root
+Definition: RDP_MOU
+Local ID:   0000
+System name:   @machine.inf,rdp_mou.devicedesc;Terminal Server Mouse Driver
+
+
+1426554568 INFO gamepad_test : 
+Full name:  \\?\ACPI#PNP0F03#4&e03a844&0#{378de44c-56ef-11d1-bc8c-00a0c91405dd}
+RIM Type:   RIM_TYPEMOUSE
+Handle:     0xb0039
+GUID:       {378de44c-56ef-11d1-bc8c-00a0c91405dd}
+Type:       ACPI
+Definition: PNP0F03
+Local ID:   4&e03a844&0
+System name:   @msmouse.inf,00672505np0f03.devicedesc;Microsoft PS/2 Mouse
+
+

@@ -1,0 +1,47 @@
+BASE STATE: 3: 128, 4: 128, 5: 128, 6: 128, 7: 0d00001111, 8: 0d00000000, 
+
+
+LEFT-STICK	CENTER	5: 128, 6: 128, 
+LEFT-STICK	UP		6: 0, 
+LEFT-STICK	DOWN	6: 255, 
+LEFT-STICK	LEFT	5: 0, 
+LEFT-STICK	RIGHT	5: 255, 
+
+RIGHT-STICK	CENTER	3: 128, 4: 128, 
+RIGHT-STICK	UP		3:   0, 
+RIGHT-STICK	DOWN	3: 255, 
+RIGHT-STICK	LEFT	4:   0, 
+RIGHT-STICK	RIGHT	4: 255, 
+
+D-PAD FREE			7: 0D----1111, 
+D-PAD USED			7: 0D----0XXX, 
+D-PAD UP			7: 0d-----000, 
+D-PAD UP-RIGHT		7: 0d-----001, 
+D-PAD RIGHT			7: 0d-----010, 
+D-PAD RIGHT-DOWN	7: 0d-----011, 
+D-PAD DOWN			7: 0d-----100, 
+D-PAD DOWN-LEFT		7: 0d-----101, 
+D-PAD LEFT			7: 0d-----110, 
+D-PAD UP-LEFT		7: 0d-----111, 
+
+BTN-1				7: 0d---1----, 
+BTN-2				7: 0d--1-----, 
+BTN-3				7: 0d-1------, 
+BTN-4				7: 0d1-------, 
+
+
+R1	ON				8: 0d----1---, 
+L1	ON				8: 0d-----1--, 
+R2	ON				8: 0d------1-, 
+L2	ON				8: 0d-------1, 
+
+SELECT				8: 0d---1----, 
+START				8: 0d--1-----, 
+
+LEFT-STICK CLICK	8: 0d-1------, 
+RIGHT-STICK CLICK	8: 0d1-------, 
+
+
+
+
+
